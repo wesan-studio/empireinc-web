@@ -3,7 +3,7 @@
 # Keep each network's block; never replace, only append when adding a network.
 
 # === AdMob (Google) — DIRECT ===
-google.com, pub-4702963699712162, DIRECT, f08c47fec0942fa0
+google.com, pub-2837083483291703, DIRECT, f08c47fec0942fa0
 
 # === Unity Ads + mediation partners ===
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
