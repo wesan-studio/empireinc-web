@@ -6,6 +6,14 @@
 google.com, pub-2837083483291703, DIRECT, f08c47fec0942fa0
 
 # === Unity Ads + mediation partners ===
+# app-ads.txt — Empire Inc / wesan
+# IAB Authorized Digital Sellers for apps. Union of EVERY ad network we use.
+# Keep each network's block; never replace, only append when adding a network.
+
+# === AdMob (Google) — DIRECT ===
+google.com, pub-2837083483291703, DIRECT, f08c47fec0942fa0
+
+# === Unity Ads + mediation partners ===
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 appads.in, 106246, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
